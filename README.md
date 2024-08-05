@@ -1,7 +1,7 @@
 # Building API endpoints with Flask:
 
 ## Description:
-
+This project is a Flask-based web application that provides user authentication and administration functionality. The application allows users to register, log in, and manage their profiles, while administrators can manage user accounts. The project integrates with PostgreSQL for data storage and uses JWT for secure authentication. It also includes features for password reset via email and provides API documentation through Swagger for easy exploration and testing of the endpoints.
 
 ## Requirements:
 
