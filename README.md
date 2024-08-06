@@ -47,6 +47,8 @@ Flask_project/
 
  JWT_SECRET_KEY=your_secret_key
 
+*** While Testing API in AUTHENTICATION TOKEN Make Sure to put Bearer before placing the token
+
  ## Database Set Up:
 
  1. Ensure PostgreSQL is running.
